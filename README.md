@@ -1,2 +1,2 @@
 # quartermaster
-An all-purpose wordpress theme
+An all-purpose wordpress starter theme built for gutenberg
